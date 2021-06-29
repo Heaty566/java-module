@@ -12,7 +12,7 @@ note: I deleted the key in demo folder, if you need to run it, please register f
 
 ## Log4j (not yet)
 
-## Email [Video Link](https://youtu.be/VO4-a8KUYz0)
+## Email [Video Link](https://youtu.be/4YDLckENeRQ)
 
 Sendgrid: https://app.sendgrid.com
 
