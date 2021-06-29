@@ -11,7 +11,11 @@ note: I deleted the key in demo folder, if you need to run it, please register n
 
 ## Log4j (not yet)
 
-## Email (not yet)
+## Email [Video Link](https://youtu.be/VO4-a8KUYz0)
+
+Sendgrid: https://app.sendgrid.com
+
+Sendgrid Jar file: [Click Here to Download](./dev/sendgrid-java.jar)
 
 ## Verify email (not yet)
 
