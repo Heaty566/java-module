@@ -3,7 +3,8 @@
 ## reCaptcha [Video Link](https://youtu.be/MMCyGZnHgvE)
 
 Google reCaptcha Link: https://www.google.com/recaptcha/admin
-note: I deleted the key in demo folder, if you need to run it, please register new key.
+
+note: I deleted the key in demo folder, if you need to run it, please register for new key.
 
 ## Payment (not yet)
 
@@ -16,6 +17,8 @@ note: I deleted the key in demo folder, if you need to run it, please register n
 Sendgrid: https://app.sendgrid.com
 
 Sendgrid Jar file: [Click Here to Download](./dev/sendgrid-java.jar)
+
+note: I deleted the key in demo folder, if you need to run it, please register for new key.
 
 ## Verify email (not yet)
 
