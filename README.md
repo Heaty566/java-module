@@ -12,6 +12,8 @@ This module is not implemented because it has no chance to run in the
 production mode. If you want to deploy to production mode,
 you have to provide them your Business No, tax receipts, and so on. Moreover, running a risky app is never the best choice for a payment method.
 
+The Ugly : https://www.youtube.com/watch?v=9O8WPgeg-g4
+
 ## Login Google [Video Link](https://youtu.be/bCkGaym6SSQ)
 
 Register Google Key: https://console.cloud.google.com/apis/dashboard
@@ -34,6 +36,6 @@ Sendgrid Jar file: [Click Here to Download](./dev/send-email/sendgrid-java.jar)
 
 Note: I deleted the key in the demo folder. If you need to run it, please register for a new key.
 
-## Verify email (not yet)
+## Verify email [Video Link](https://youtu.be/1Enj2qEZbxw)
 
 # Please give me a star if this project helps your assignment
