@@ -8,7 +8,11 @@ note: I deleted the key in demo folder, if you need to run it, please register f
 
 ## Payment (not yet)
 
-## Login Google (not yet)
+## Login Google [Video Link](https://youtu.be/bCkGaym6SSQ)
+
+Register Google Key: https://console.cloud.google.com/apis/dashboard
+
+All packages is in dev folder
 
 ## Log4j (not yet)
 
@@ -16,7 +20,7 @@ note: I deleted the key in demo folder, if you need to run it, please register f
 
 Sendgrid: https://app.sendgrid.com
 
-Sendgrid Jar file: [Click Here to Download](./dev/sendgrid-java.jar)
+Sendgrid Jar file: [Click Here to Download](./dev/send-email/sendgrid-java.jar)
 
 note: I deleted the key in demo folder, if you need to run it, please register for new key.
 
