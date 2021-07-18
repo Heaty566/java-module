@@ -4,7 +4,10 @@
 
 Google reCaptcha Link: https://www.google.com/recaptcha/admin
 
-Note: I deleted the key in the demo folder. If you need to run it, please register for a new key.
+Note:
+I deleted the key in the demo folder. If you need to run it, please register for a new key.
+
+Change the button action to form action in case action is null.
 
 ## Payment (not recommend)
 
