@@ -9,6 +9,18 @@ I deleted the key in the demo folder. If you need to run it, please register for
 
 Change the button action to form action in case action is null.
 
+### Error:
+
+None action parameter
+
+Form this picture
+
+![HTML2](document/recapcha1.png)
+
+To this one
+
+![HTML2](document/recapcha2.png)
+
 ## Payment (not recommend)
 
 This module is not implemented because it has no chance to run in the
