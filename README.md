@@ -57,3 +57,7 @@ Note:
 ## 6.Verify email [Video Link](https://youtu.be/1Enj2qEZbxw)
 
 # Please give me a star if this project helps your assignment
+
+# I can implement all modules for you to your assignment or group project (With a reasonable price)
+
+# Contact Me: https://www.facebook.com/Heaty566
