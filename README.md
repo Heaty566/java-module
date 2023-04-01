@@ -22,13 +22,9 @@ Note:
 
   ![HTML2](document/recapcha2.png)
 
-## 2.Payment (not recommend)
+## 2.Payment
 
-- This module is not implemented because it has no chance to run in the
-  production mode. If you want to deploy to production mode,
-  you have to provide them your Business No, tax receipts, and so on. Moreover, running a risky app is never the best choice for a payment method.
-
-- The Ugly : https://www.youtube.com/watch?v=9O8WPgeg-g4
+- This module is building with MoMo API.
 
 ## 3.Login Google [Video Link](https://youtu.be/bCkGaym6SSQ)
 
@@ -38,11 +34,9 @@ Note:
 
 - to get a full profile of user, please change to scope to "scope=email%20profile%20openid"
 
-## 4.Log4j (not recommend)
+## 4.Log4j
 
-- This module is not implemented because I can not fully control the property file, which needs to make this package run. (Netbeans Noob)
-
-- If you want to implement this module, please check this link: https://www.youtube.com/watch?v=XtsecQtgmKU
+- This module is building
 
 ## 5.Email [Video Link](https://youtu.be/4YDLckENeRQ)
 
@@ -52,12 +46,14 @@ Note:
 
 Note:
 
-- I deleted the key in the demo folder. If you need to run it, please register for a new key.
+- You must have a domain and Sendgrid account to send email, you can contact me for help.
 
 ## 6.Verify email [Video Link](https://youtu.be/1Enj2qEZbxw)
 
-# Please give me a star if this project helps your assignment
+Note:
 
-# I can implement all modules for you to your assignment or group project (With a reasonable price)
+- You must deploy your project to a live website to verify email, you can contact me for help.
+
+# Please give me a star if this project helps your assignment
 
 # Contact Me: https://www.facebook.com/Heaty566
