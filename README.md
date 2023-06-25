@@ -19,6 +19,7 @@ Note:
     ![HTML2](document/recapcha1.png)
 
   - To this one
+
     ![HTML2](document/recapcha2.png)
 
 ## 2.Payment
