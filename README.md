@@ -10,17 +10,16 @@ Note:
 
 - Google reCaptcha Link: https://www.google.com/recaptcha/admin
 
-### Error:
+### Error with MainController
 
-- None action parameter
+- None action parameter: this error happens when you apply main controller to a page that does not have any action parameter. Because javascript submit function doesn't send your action paramter in the `<form>` tag to the server. To fix this error, you can add a hidden input tag to your form like this:
 
-  Form this picture
+  - Form this picture
 
-  ![HTML2](document/recapcha1.png)
+    ![HTML2](document/recapcha1.png)
 
-  To this one
-
-  ![HTML2](document/recapcha2.png)
+  - To this one
+    ![HTML2](document/recapcha2.png)
 
 ## 2.Payment
 
@@ -53,6 +52,10 @@ Note:
 Note:
 
 - You must deploy your project to a live website to verify email, you can contact me for help.
+
+## 7.Login Facebook
+
+- this module is building
 
 # Please give me a star if this project helps your assignment
 
